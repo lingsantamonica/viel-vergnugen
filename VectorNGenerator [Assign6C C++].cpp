@@ -3,7 +3,7 @@
 //Assignment #5, Problem #C
 
 
-//This program use user defined generate to fill an int vector
+//This program use user defined generator to fill an int vector
 
 #include <algorithm>
 #include <iostream>
