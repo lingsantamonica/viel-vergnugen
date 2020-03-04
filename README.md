@@ -15,4 +15,4 @@ My various code samples as reference
 
 The respiratory is updated regulary
 
-Ich wuensche dir viel vergnugen und Frohe Weihnachten!!!
+Ich wuensche dir viel vergnugen 
